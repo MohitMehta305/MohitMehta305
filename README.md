@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohitMehta305
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...C++ , Data structure
+- 🌱 I’m currently learning ...C++ , Data structure and webdevlopment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my email- pit.mohitmehta2001@gmail.com
 
